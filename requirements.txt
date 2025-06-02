@@ -3,3 +3,4 @@ geopandas
 pandas
 plotly
 shapely
+dash-bootstrap-components
