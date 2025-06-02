@@ -1,6 +1,6 @@
 dash
+dash-bootstrap-components
 geopandas
 pandas
 plotly
 shapely
-dash-bootstrap-components
